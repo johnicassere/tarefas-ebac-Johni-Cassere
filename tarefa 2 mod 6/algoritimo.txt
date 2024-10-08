@@ -1,0 +1,11 @@
+Algoritimo acordando
+
+1-Abrir os olhos
+2-Levantar da cama
+3-Se o chinelo estiver proximo da cama
+	1-Calçar o chinelo
+4-Se o chinelo não estiver perto da cama
+	1-Procurar o chinelo
+5-Ir ao banheiro
+6-Escovar os dentes
+7-Tomar café da manhã
